@@ -1,2 +1,2 @@
 # ContinuousIntegration
-Test CI
+Testing connecting Teamcity to this repo
